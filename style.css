@@ -6,6 +6,10 @@
   --color5: #EA3A57;
 }
 
+body {
+  width: 100%;
+}
+
 /* Цвета */
 .color1 {
   color: var(--color1);
