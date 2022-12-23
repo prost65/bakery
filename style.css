@@ -6,10 +6,6 @@
   --color5: #EA3A57;
 }
 
-body {
-  word-break: break-all;
-}
-
 /* Цвета */
 .color1 {
   color: var(--color1);
